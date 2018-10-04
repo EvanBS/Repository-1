@@ -15,6 +15,7 @@ namespace EC0
         public static void Main(string[] args)
         {
 
+
             int[] arr = new int[Convert.ToInt32(Console.ReadLine())];
             for (int i = 0; i < arr.Length; i++)
             {
